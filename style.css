@@ -1,64 +1,64 @@
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
-    direction: rtl;
-    line-height: 1.6;
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+  line-height: 1.6;
 }
 
 main {
-    width: 80%;
-    max-width: 900px;
-    margin: 40px auto; /* Added some margin on top for better spacing */
-    background-color: white;
-    padding: 20px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Adjusted shadow for a softer look */
-    border-radius: 8px;
+  width: 80%;
+  max-width: 900px;
+  margin: 40px auto; /* Added some margin on top for better spacing */
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Adjusted shadow for a softer look */
+  border-radius: 8px;
 }
 
 h1 {
-    text-align: center;
-    color: #333;
-    margin-bottom: 20px; /* Added margin bottom for spacing */
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px; /* Added margin bottom for spacing */
 }
 
 #img-div {
-    text-align: center;
-    margin: 20px 0;
+  text-align: center;
+  margin: 20px 0;
 }
 
 #image {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    border-radius: 8px;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 8px;
 }
 
 #img-caption {
-    color: #666;
-    font-size: 14px;
-    margin-top: 10px;
+  color: #666;
+  font-size: 14px;
+  margin-top: 10px;
 }
 
 #tribute-info {
-    margin-top: 20px;
-    color: #666;
-    text-align: justify;
+  margin-top: 20px;
+  color: #666;
+  text-align: justify;
 }
 
 #tribute-info p {
-    margin-bottom: 15px; /* Added space between paragraphs */
+  margin-bottom: 15px; /* Added space between paragraphs */
 }
 
 #tribute-link {
-    display: block;
-    text-align: center;
-    margin-top: 20px;
-    color: #0066cc;
-    text-decoration: none;
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  color: #06c;
+  text-decoration: none;
 }
 
 #tribute-link:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
